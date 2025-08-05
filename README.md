@@ -18,7 +18,7 @@
 
 ## Description
 
-![Graph showing completeness rates]()
+![model_description](model_image.png)
 
 ## Usage Notes
 
@@ -61,4 +61,4 @@ If you'd like to contribute, or have any suggestions for these guidelines, you c
 
 
 ## Files
-⬇️ [Download SW](https://drive.google.com/drive/folders/1EUe4gE6GwGCh5hS5ZkWoHO_nLW_nGVYS?usp=sharing)
+⬇️ [Download SW](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/Syntax_missing_SW))
