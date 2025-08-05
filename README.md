@@ -2,7 +2,6 @@
  
 **DEVELOPED BY**: MI2RL (울산대학교)
 
----
 
 ## Abstract
 
@@ -14,7 +13,6 @@
 
 - The extracted DICOM tag information was compared with a pre-existing reference dataset to evaluate the accuracy of the analysis results.
 
----
 
 ## Description
 
