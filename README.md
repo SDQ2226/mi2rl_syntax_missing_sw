@@ -48,7 +48,16 @@ You can download the pre-trained weights from the following link:
 After downloading the weights, place them in the following directory:
 Syntax_missing_SW/nnUNet_v2_inference_lowres/nnUNet_results/Dataset001_total_segmentor/nnUNetTrainer__nnUNetPlans__3d_lowres
 
-## Tag 
+## Summary
+
+The nnUNet model was used for aortic segmentation and analysis, incorporating pixel intensity, multi-view DICOM data, and reference dataset comparison.
+## Tag(Input)
+
+DICOM
+
+## Tag(purpose)
+
+Segmentation, Evaluation
 
 ## Reference
 
