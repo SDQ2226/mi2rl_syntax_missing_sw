@@ -55,7 +55,7 @@ The nnUNet model was used for aortic segmentation and analysis, incorporating pi
 
 DICOM
 
-## Tag(purpose)
+## Tag(Purpose)
 
 Segmentation, Evaluation
 
